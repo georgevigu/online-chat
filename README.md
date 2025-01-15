@@ -1,6 +1,6 @@
 # Social Media Web Application
 
-This is a full-stack social media web app designed and developed using **Spring Boot** and **React**, with a focus on providing a secure, user-friendly platform for social interaction, including user registration, profile management, and real-time chat functionality.
+This is a full-stack social media web app designed and developed using **Spring Boot** and **React**, with a focus on providing a secure, user-friendly platform for social interaction, including user registration, profile management and chat functionality.
 
 ## Features
 - **User Authentication**: Secure login and registration with JWT-based authentication.
