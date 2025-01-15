@@ -8,18 +8,18 @@ This is a full-stack social media web app designed and developed using **Spring 
 - **Chat Functionality**: Chat system allowing users to send and receive messages, styled for clear message distinction.
 - **Post Creation and Interaction**: Users can create, view, and interact with posts (optional future feature).
 - **Responsive Design**: Styled with plain CSS for a clean and intuitive user interface.
-- **Backend Image Storage**: Profile images are stored as `byte[]` in the database, ensuring efficient data handling.
+- **Backend Image Storage**: Images are stored as BLOBs in the database, ensuring efficient data handling.
 
 ## Tech Stack
 ### Backend
 - **Java** (Spring Boot)
 - **Spring Security** for authentication and authorization
 - **JWT** for secure session management
-- **MYSQL Database** or any configured SQL database for data persistence
+- **MYSQL Database**
 
 ### Frontend
 - **React.js** for building dynamic UI components
-- **CSS** for styling the app with a simple and elegant design
+- **MaterialUI**
 
 ## Installation
 ### Prerequisites
